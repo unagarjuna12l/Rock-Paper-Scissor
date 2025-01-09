@@ -1,8 +1,8 @@
 # Rock-Paper-Scissor
-Project Overview
+Project Overview:-
 This is a simple Python-based Rock, Paper, Scissors game that allows users to play against the computer. The game is interactive and runs in the terminal, with options to play multiple rounds and track scores. It's an excellent beginner-friendly project that demonstrates the use of conditional logic, randomization, and loops in Python.
 
-How to Play
+How to Play:-
 ->Run the Python script in your terminal.
 ->When prompted, enter your choice: rock, paper, or scissors.
 ->The computer will randomly choose its move.
